@@ -1,0 +1,18 @@
+{
+  "configurations" : [
+    {
+      "id" : "CD2E6C50-E3DC-4B1B-90ED-BE84C4134825",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
